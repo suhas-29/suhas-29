@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suhas-bhagat?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3baprgwkitqy26rtipcqsdca%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhas-bhagat?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3baprgwkitqy26rtipcqsdca%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/suhas-bhagat?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpjv%2fhmgiqie1kac2nezhpw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhas-bhagat?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpjv%2fhmgiqie1kac2nezhpw%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/suhas2_9_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suhas2_9_/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/bhagatsuhas25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bhagatsuhas25" height="30" width="40" /></a>
 </p>
